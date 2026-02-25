@@ -7,11 +7,11 @@
 ## 🖼️ Screenshots
 
 ### The Game Board
-![Game Board](board.png)
+![Game Board](game.png)
 *Active 7x7 grid showing the player positions and various game items.*
 
 ### Victory Screen
-![Victory Screen](victory.png)
+![Victory Screen](win.png)
 *The result screen triggered when a player successfully reaches the goal.*
 
 ---
