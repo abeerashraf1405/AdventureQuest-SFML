@@ -1,41 +1,12 @@
-# Prerequisites
-*.d
-
-# Compiled Object files
-*.slo
-*.lo
+# Prerequisites: Do not upload the massive libraries or binaries
+*.exe
 *.o
 *.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Linker files
-*.ilk
-
-# Debugger Files
-*.pdb
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
 *.dll
 
-# Fortran module files
-*.mod
-*.smod
+# VS Code specific files that might contain local paths
+.vscode/
+*.log
 
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
-
-# debug information files
-*.dwo
+# SFML specific binaries if you moved them
+bin/
